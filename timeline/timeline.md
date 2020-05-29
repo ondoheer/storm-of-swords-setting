@@ -17,4 +17,5 @@ HE = Human Era
 |_ 550 AE The Crusade
 |_ 620 AE The Extermination
 |_ 650 AE / 0 HE The Human Era
+|_ 230 HE Game Starts 
 ```
